@@ -5,6 +5,7 @@ Nov 8, 2026 · Marcus Jüttner
 ## How it works
 
 The script sets the brightness of an Apple Studio Display on Windows. It sends an HID feature report straight to the display, using only what ships with Windows.
+
 This is done with massive help from Claude!
 
 Sequence:
